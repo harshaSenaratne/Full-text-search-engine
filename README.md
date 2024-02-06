@@ -1,4 +1,5 @@
 ## Demo
+
 ![ScreenRecording2024-02-06at11 29 22-ezgif com-crop](https://github.com/harshaSenaratne/Full-text-search-engine/assets/25275596/2317a21b-e18f-417e-b8ff-a79da4bf892c)
 
 
