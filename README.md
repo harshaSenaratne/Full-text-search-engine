@@ -1,12 +1,11 @@
 ## Demo
-
-![ScreenRecording2024-02-06at11 29 22-ezgif com-crop](https://github.com/harshaSenaratne/Full-text-search-engine/assets/25275596/2317a21b-e18f-417e-b8ff-a79da4bf892c)
+![ScreenRecording2024-02-06at12 00 48-ezgif com-crop](https://github.com/harshaSenaratne/Full-text-search-engine/assets/25275596/88d21475-0270-47b3-9cd9-630ca269bf49)
 
 
 # Requirements
 
 Follow the below link to get the data dump
-[pip](https://dumps.wikimedia.org/enwiki/latest/enwiki-latest-abstract1.xml.gz)
+(https://dumps.wikimedia.org/enwiki/latest/enwiki-latest-abstract1.xml.gz)
 
 ## Installation
 
