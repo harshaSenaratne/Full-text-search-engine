@@ -3,6 +3,8 @@ A given data dump is preprocessed and created an inverted index.
 
 ![inverted-index-overview](https://github.com/harshaSenaratne/Full-text-search-engine/assets/25275596/6256ca45-46f3-4dff-ad07-3e2cabbfbae5)
 
+## How index is created
+![indexing drawio](https://github.com/harshaSenaratne/Full-text-search-engine/assets/25275596/a05b0b2e-0dc6-4b7d-add1-633088bd1371)
 
 
 
